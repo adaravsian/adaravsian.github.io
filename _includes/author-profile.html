@@ -155,7 +155,11 @@
       {% endif %}
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-      {% endif %}      
+      {% endif %}   
+      {% if author.spotify %}
+        <li><a href="{{ author.spotify }}"><i class="fab fa-fw fa-spotify icon-pad-right" aria-hidden="true"></i>Spotify</a></li>
+      {% endif %}
+   
     </ul>
   </div>
 </div>

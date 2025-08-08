@@ -29,7 +29,7 @@ author:
   location         : "Atlanta, GA, USA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
-  email            : "aavsian3@gatech.edu" 
+  email            : "adar@gatech.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -67,13 +67,14 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "adaravsian"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : # 
+  spotify          : "https://open.spotify.com/artist/6tDsVYBTOQ3gaZ8iqJH6m0?si=sxZ016iJRUiSbqna8Gdxag&nd=1&dlsi=3e123812cba64037"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
